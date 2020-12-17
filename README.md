@@ -3,10 +3,10 @@
 Hi there! I'm Emman. I'm currently into game development, competitive programming, as well as mobile app development! I also play League of Legends and Teamfight Tactics whenever I have free time.
 
 ### 👦🏻 Social Media Links
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.emman129@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nammeattacks)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nammeattacks)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nammeattacks)
+[![Gmail](https://img.shields.io/badge/e.emman129@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.emman129@gmail.com)
+[![Facebook](https://img.shields.io/badge/nammeattacks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nammeattacks)
+[![Instagram](https://img.shields.io/badge/@nammeattacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nammeattacks)
+[![Twitter](https://img.shields.io/badge/@nammeattacks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nammeattacks)
 > You can also add me on Discord: `namme kun#9325`
 
 ### 👨🏻‍💻 Hackerman Stats
