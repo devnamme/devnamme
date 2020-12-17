@@ -7,7 +7,7 @@ Hi there! I'm Emman. I'm currently into game development, competitive programmin
 [![Facebook](https://img.shields.io/badge/nammeattacks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nammeattacks)
 [![Instagram](https://img.shields.io/badge/@nammeattacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nammeattacks)
 [![Twitter](https://img.shields.io/badge/@nammeattacks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nammeattacks)
-> You can also add me on Discord: `namme kun#9325`
+![Discord](https://img.shields.io/badge/namme%20kun%239325-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 👨🏻‍💻 Hackerman Stats
 [![dnamme's Github Stats](https://github-readme-stats.vercel.app/api?username=dnamme&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
