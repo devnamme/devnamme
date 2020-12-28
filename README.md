@@ -1,6 +1,6 @@
 ## Heya, fellow hackerman! 👋
 
-Hi there! I'm Emman. I'm currently into game development, competitive programming, as well as mobile app development! I also play League of Legends and Teamfight Tactics whenever I have free time.
+Hi there! I'm Emman. I'm currently into game development, competitive programming, as well as mobile app development!
 
 ### 👦🏻 Social Media Links
 [![Gmail](https://img.shields.io/badge/e.emman129@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.emman129@gmail.com)
