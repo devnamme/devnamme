@@ -11,7 +11,7 @@ Wanna see the things that I've worked on? Come take a look at my [personal portf
 [![Facebook](https://img.shields.io/badge/nammeattacks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nammeattacks)
 [![Instagram](https://img.shields.io/badge/@nammeattacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nammeattacks)
 [![Twitter](https://img.shields.io/badge/@nammeattacks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nammeattacks)
-![Discord](https://img.shields.io/badge/namme%20kun%239325-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/mastername%239325-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 👨🏻‍💻 Hackerman Stats
 
