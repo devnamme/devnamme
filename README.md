@@ -4,14 +4,7 @@ Hi there! I'm Emman. I'm currently into game development, competitive programmin
 
 Wanna see the things that I've worked on? Come take a look at my [personal portfolio](https://dnamme.github.io)!
 
-### 👦🏻 Social Media Links
-
-[![Gmail](https://img.shields.io/badge/e.emman129@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.emman129@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/devnamme-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnamme/)
-[![Facebook](https://img.shields.io/badge/nammeattacks-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nammeattacks)
-[![Instagram](https://img.shields.io/badge/@nammeattacks-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nammeattacks)
-[![Twitter](https://img.shields.io/badge/@nammeattacks-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/nammeattacks)
-![Discord](https://img.shields.io/badge/mastername%239325-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 👨🏻‍💻 Hackerman Stats
 
